@@ -1,0 +1,19 @@
+{
+  "name": "exemple-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.9",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
